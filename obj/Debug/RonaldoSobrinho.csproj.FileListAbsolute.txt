@@ -1,0 +1,8 @@
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\bin\Debug\RonaldoSobrinho.exe.config
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\bin\Debug\RonaldoSobrinho.exe
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\bin\Debug\RonaldoSobrinho.pdb
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\obj\Debug\RonaldoSobrinho.csproj.AssemblyReference.cache
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\obj\Debug\RonaldoSobrinho.csproj.SuggestedBindingRedirects.cache
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\obj\Debug\RonaldoSobrinho.csproj.CoreCompileInputs.cache
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\obj\Debug\RonaldoSobrinho.exe
+D:\ProjetosVisual\RonaldoSobrinho\RonaldoSobrinho\obj\Debug\RonaldoSobrinho.pdb
